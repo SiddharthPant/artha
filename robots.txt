@@ -1,1 +1,1 @@
-Sitemap: https://siddharthpant.github.io/artha/sitemap.xml
+Sitemap: https://blog.siddharthpant.com/sitemap.xml
